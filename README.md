@@ -1,6 +1,8 @@
 # LMS
 Simple Leave Management Application
 
+1) Applying leave by an employee.
+2) Getting leave details of an employee.
 ------------------------------------------------
 Inserting some dummy data:
 
